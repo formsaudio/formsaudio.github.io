@@ -1,2 +1,2 @@
 # formsaudio.github.io
-The Static FormsAudio Site
+The landing and information page for forms.audio
